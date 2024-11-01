@@ -1,0 +1,99 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: we-will-call-you\n"
+"POT-Creation-Date: 2015-11-14 18:00+0100\n"
+"PO-Revision-Date: 2017-04-17 16:41+0100\n"
+"Last-Translator: teenvio <info@teenvio.com>\n"
+"Language-Team:  <info@teenvio.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;__#\n"
+"Language: es_ES\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+msgid "name"
+msgstr "Nombre de usuario"
+
+msgid "pass"
+msgstr "Contraseña"
+
+msgid "plan"
+msgstr "Plan"
+
+msgid "urlpoliticas"
+msgstr "URL de las Políticas de privacidad"
+
+msgid "urlcondiciones"
+msgstr "URL de Condiciones de uso"
+
+msgid "oligatorio"
+msgstr "Campos obligatorios"
+
+msgid "completeobligatorios"
+msgstr "Complete los datos obligatorios"
+
+msgid "descriptionwidget"
+msgstr ""
+"Widget para incluir un formulario de inscripción de forma sencilla en "
+"Wordpress"
+
+msgid "loading"
+msgstr "Cargando"
+
+msgid "email"
+msgstr "Email"
+
+msgid "acepto"
+msgstr "Acepto las "
+
+msgid "politicas"
+msgstr "Políticas de privacidad"
+
+msgid "ylas"
+msgstr " y las "
+
+msgid "condiciones"
+msgstr "Condiciones de uso"
+
+msgid "enviar"
+msgstr "Enviar"
+
+msgid "configuracion"
+msgstr "Datos de Configuración"
+
+msgid "datosincorrectos"
+msgstr ""
+"No se ha podido realizar una conexión. Revise los datos necesarios de su "
+"plan en la seccion Herramientas>>APIs"
+
+msgid "gid"
+msgstr "Id de grupo"
+
+msgid "gname"
+msgstr "Nombre para el grupo"
+
+msgid "tesugroupdescription"
+msgstr "Grupo automático del Widget para Wordpress"
+
+msgid "gracias"
+msgstr "Gracias por suscribirte a nuestra Newletter"
+
+msgid "si no dispone de cuenta puede crear una"
+msgstr "Si usted no dispone de una cuenta, puede dar una de alta"
+
+msgid "aqui"
+msgstr "aquí"
+
+msgid "enlace alta"
+msgstr "https://master2.teenvio.com/v4/public/alta/"
+
+msgid "error limit php"
+msgstr ""
+"Para poder funcionar correctamente, el plugin requiere que la opción "
+"<strong>allow_url_fopen</strong> en las opciones de su PHP esté activada, o "
+"tener instalado en su servidor cURL"

@@ -1,0 +1,95 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: tesu\n"
+"POT-Creation-Date: 2015-11-14 18:00+0100\n"
+"PO-Revision-Date: 2017-04-19 11:44+0100\n"
+"Last-Translator: teenvio <info@teenvio.com>\n"
+"Language-Team:  <info@teenvio.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;__#\n"
+"Language: en_US\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+msgid "name"
+msgstr "Name"
+
+msgid "pass"
+msgstr "Password"
+
+msgid "plan"
+msgstr "Plan"
+
+msgid "urlpoliticas"
+msgstr "Privacy Politics URL"
+
+msgid "urlcondiciones"
+msgstr "Conditions URL"
+
+msgid "oligatorio"
+msgstr "Mandatory fields"
+
+msgid "completeobligatorios"
+msgstr "Please, complete mandatory fields"
+
+msgid "descriptionwidget"
+msgstr "This widget allow to include an suscribe form in Wordpress"
+
+msgid "loading"
+msgstr "Loading"
+
+msgid "email"
+msgstr "eMail"
+
+msgid "acepto"
+msgstr "Accept "
+
+msgid "politicas"
+msgstr "Privacy Politics"
+
+msgid "ylas"
+msgstr " and "
+
+msgid "condiciones"
+msgstr "Terms"
+
+msgid "enviar"
+msgstr "Send"
+
+msgid "configuracion"
+msgstr "Configuration Data"
+
+msgid "datosincorrectos"
+msgstr ""
+"Unabled to make conection. Check the fields data for your plan in Tools>>APIs"
+
+msgid "gid"
+msgstr "Group Id"
+
+msgid "gname"
+msgstr "Group Name"
+
+msgid "tesugroupdescription"
+msgstr "Automatic Group of the Wordpress's Widgets"
+
+msgid "gracias"
+msgstr "Thanks for suscribe to our Newletter"
+
+msgid "si no dispone de cuenta puede crear una"
+msgstr "If you don`t have an account, you can register"
+
+msgid "aqui"
+msgstr "here"
+
+msgid "enlace alta"
+msgstr "https://master2.teenvio.com/v4/public/alta/?lang=en_US"
+
+msgid "error limit php"
+msgstr ""
+"To work properly, you must activate de option <strong>allow_url_fopen</"
+"strong> from PHP options, or the <strong>cURL library</strong>"
